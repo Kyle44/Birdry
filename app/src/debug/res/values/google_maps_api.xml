@@ -1,0 +1,10 @@
+<resources>
+    <!--
+    You can also add your credentials to an existing key, using this line:
+    47:F3:C2:B1:18:18:D0:0A:5C:FB:56:9C:5C:B2:54:A8:1E:EE:28:C9;com.maple.birddetection
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDbjSQ1Se-Bn-ALqxi750X5LjVbd5dKuK8</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Birdry</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_picture_detail">PictureDetail</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
